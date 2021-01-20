@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "postal": [
     {
-      "id": 1,
-      "title": "hello"
+      "idx": 1,
+      "titlex": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "profiles": {
+    "names": "typicode"
   }
 }
